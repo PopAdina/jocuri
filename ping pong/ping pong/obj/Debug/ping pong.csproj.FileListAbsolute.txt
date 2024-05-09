@@ -1,0 +1,10 @@
+D:\JOC PELE LABORATOR NOTA!!!!!!!!!!!!!!!!\ping pong\ping pong\bin\Debug\ping pong.exe.config
+D:\JOC PELE LABORATOR NOTA!!!!!!!!!!!!!!!!\ping pong\ping pong\bin\Debug\ping pong.exe
+D:\JOC PELE LABORATOR NOTA!!!!!!!!!!!!!!!!\ping pong\ping pong\bin\Debug\ping pong.pdb
+D:\JOC PELE LABORATOR NOTA!!!!!!!!!!!!!!!!\ping pong\ping pong\obj\Debug\ping pong.csproj.AssemblyReference.cache
+D:\JOC PELE LABORATOR NOTA!!!!!!!!!!!!!!!!\ping pong\ping pong\obj\Debug\ping_pong.Form1.resources
+D:\JOC PELE LABORATOR NOTA!!!!!!!!!!!!!!!!\ping pong\ping pong\obj\Debug\ping_pong.Properties.Resources.resources
+D:\JOC PELE LABORATOR NOTA!!!!!!!!!!!!!!!!\ping pong\ping pong\obj\Debug\ping pong.csproj.GenerateResource.cache
+D:\JOC PELE LABORATOR NOTA!!!!!!!!!!!!!!!!\ping pong\ping pong\obj\Debug\ping pong.csproj.CoreCompileInputs.cache
+D:\JOC PELE LABORATOR NOTA!!!!!!!!!!!!!!!!\ping pong\ping pong\obj\Debug\ping pong.exe
+D:\JOC PELE LABORATOR NOTA!!!!!!!!!!!!!!!!\ping pong\ping pong\obj\Debug\ping pong.pdb
